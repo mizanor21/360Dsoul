@@ -1,0 +1,8 @@
+.blog-banner {
+  background-image: url("https://isaiahcounselingandwellness.com/wp-content/uploads/2018/06/Tryzens-Blog-Page-Banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60vh;
+  width: 100%;
+}

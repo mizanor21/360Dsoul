@@ -1,0 +1,8 @@
+.about-banner {
+  background-image: url("https://www.oracle.com/a/ocom/img/rh03v4full-about-oracle-short.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60vh;
+  width: 100%;
+}

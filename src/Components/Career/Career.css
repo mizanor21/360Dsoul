@@ -1,0 +1,17 @@
+.career-banner {
+  background-image: url("https://newworldtechnologies.ae/wp-content/uploads/2024/03/Careers-1_2048x2048.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 70vh;
+  width: 100%;
+}
+
+.apply {
+  background-image: url("https://www.oracle.com/asset/web/i/rh08-top-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60vh;
+  width: 100%;
+}

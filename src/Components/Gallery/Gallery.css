@@ -1,0 +1,8 @@
+.gallery-banner {
+  background-image: url("https://artlogic-res.cloudinary.com/w_1000,h_800,c_limit,f_auto,fl_lossy/ws-hamiltons/usr/exhibitions/images/exhibitions/138/install-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60vh;
+  width: 100%;
+}

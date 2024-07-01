@@ -1,0 +1,16 @@
+.cloud-1 {
+  background-image: url("https://www.oracle.com/asset/web/i/rh02-panel2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 40vh;
+}
+.cloud-2 {
+  background-image: url("https://www.oracle.com/asset/web/i/rh02-panel1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 40vh;
+}
